@@ -18,9 +18,9 @@ Or install it yourself as:
     $ gem install shownola_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
-
+```ruby
+ShownolaViewTool::Renderer.copyright 'Sherry Wasieko', 'All rights reserved'
+```
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
